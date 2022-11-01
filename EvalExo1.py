@@ -1,9 +1,9 @@
 #definition de nos borne aleatoirement
-import random, string
-randomalpha = random.randrange(0, 100,1)
-randombeta = random.randrange(0, 100,1)
-randomdelta = random.randrange(0, 100,1)
-randomgamma = random.randrange(0, 100,1)
+import random
+randomalpha = random.randrange(0, 100)
+randombeta = random.randrange(0, 100)
+randomdelta = random.randrange(0, 100)
+randomgamma = random.randrange(0, 100)
 Borne1=[]
 Borne2=[]
 #affichage de nos borne pour vérifier l'efficacite du programme
@@ -24,7 +24,7 @@ else :
     randommin2 = randomdelta
     randommax2 = randomgamma
 
-#
+
 while randommin1 <= randommax1 :
     Borne1.append(randommin1)
     randommin1 +=1
