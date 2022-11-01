@@ -38,3 +38,9 @@ Tous les caractères restants vont à la fin du résultat.
 Chaque fois que l'utilisateur tape sur une touche, votre programme doit générer un nouveau mot de passe.
 
 13. Créer un programme qui permet qui génère un numéro aléatoire (0..100) et qui demande à l'utilisateur de le deviner. Le programme doit aider l'utilisateur en suggérant la bonne direction à suivre.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EvalEXO1 : Écrire une fonction qui prend en entrée deux intervalles d’entiers etqui rend yessi les intervalles partagentdes éléments.
+
+EvalExo2 : Écrire une fonction qui prend en entrée deux listes d’entier et quirend toutes les paires dont la somme est égale à 21. Une paire estcomposée de chiffres venant chacun d’une liste différente.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
