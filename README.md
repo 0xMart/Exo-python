@@ -43,4 +43,3 @@ Chaque fois que l'utilisateur tape sur une touche, votre programme doit génére
 EvalEXO1 : Écrire une fonction qui prend en entrée deux intervalles d’entiers etqui rend yessi les intervalles partagentdes éléments.
 
 EvalExo2 : Écrire une fonction qui prend en entrée deux listes d’entier et quirend toutes les paires dont la somme est égale à 21. Une paire estcomposée de chiffres venant chacun d’une liste différente.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
