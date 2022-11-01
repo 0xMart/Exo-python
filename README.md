@@ -21,7 +21,7 @@
 7. Ecrivez un programme python pour changer une chaîne donnée en une nouvelle chaîne où les premiers et derniers caractères ont été échangés.
 
 8. Étant donné deux chaînes, s1 et s2 tapé par l'utilisateur. Ecrivez un programme pour créer une nouvelle chaîne s3 composée du premier caractère de s1, puis du dernier caractère de s2, Ensuite, du deuxième caractère de s1 et de l'avant-dernier caractère de s2, et ainsi de suite.
-Tous les caractères restants vont à la fin du résultat. Ex: "Bonjour", "salut", "Btoujloausr"
+Tous les caractères restants vont à la fin du résultat.
 
 9. Ecrivez un programme Python pour générer une chaîne alphanumérique aléatoire, une valeur aléatoire entre deux entiers (inclus) et un multiple aléatoire de 7 entre 0 et 70.
 
